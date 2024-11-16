@@ -1,10 +1,10 @@
 <<<<<<< HEAD
 # laravel-job-posting-practice
-Practice project for developing a job posting website using Laravel. Includes features such as job listing, user authentication, and CRUD operations. perfect for honing Laravel skills and mastering industry-standard practices."
+Practice project for developing a job posting website using Laravel. Includes features such as job listing, user authentication, and CRUD operations.
 =======
 <<<<<<< HEAD
 # laravel-job-posting-practice
-Practice project for developing a job posting website using Laravel. Includes features such as job listing, user authentication, and CRUD operations. perfect for honing Laravel skills and mastering industry-standard practices."
+Practice project for developing a job posting website using Laravel. Includes features such as job listing, user authentication, and CRUD operations.
 =======
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
